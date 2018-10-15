@@ -1,3 +1,4 @@
 hi
 hello
-i have fixed the bug
+i have fixed the bu
+show the results
